@@ -1,15 +1,28 @@
 [
     {
         "question": {
+            "questionId": "2262",
+            "questionFrontendId": "2140",
+            "link": "/problems/solving-questions-with-brainpower/",
+            "title": "Solving Questions With Brainpower",
+            "titleSlug": "solving-questions-with-brainpower",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Dynamic Programming"],
+            "dailyCodingChallenges": ["2025-04-01"]
+        }
+    },
+    {
+        "question": {
             "questionId": "3154",
             "questionFrontendId": "2873",
             "link": "/problems/maximum-value-of-an-ordered-triplet-i/",
             "title": "Maximum Value of an Ordered Triplet I",
             "titleSlug": "maximum-value-of-an-ordered-triplet-i",
-            "dailyCodingChallenges:": ["2025-04-02"],
             "difficulty": "easy",
             "categoryTitle": "Algorithms",
-            "topicTags": ["Array"]
+            "topicTags": ["Array"],
+            "dailyCodingChallenges:": ["2025-04-02"]
         },
         "submissions": [
             {
@@ -21,5 +34,18 @@
                 "date": "2025-04-02"
             }
         ]
+    },
+    {
+        "question": {
+            "questionId": "317",
+            "questionFrontendId": "317",
+            "link": "/problems/shortest-distance-from-all-buildings/",
+            "title": "Shortest Distance from All Buildings",
+            "titleSlug": "shortest-distance-from-all-buildings",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Breadth-First Search", "Matrix"],
+            "weeklyChallenges": ["2025-04-01"]
+        }
     }
 ]
