@@ -1,0 +1,25 @@
+[
+    {
+        "question": {
+            "questionId": "3154",
+            "questionFrontendId": "2873",
+            "link": "/problems/maximum-value-of-an-ordered-triplet-i/",
+            "title": "Maximum Value of an Ordered Triplet I",
+            "titleSlug": "maximum-value-of-an-ordered-triplet-i",
+            "dailyCodingChallenges:": ["2025-04-02"],
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array"]
+        },
+        "submissions": [
+            {
+                "id": "1594111934",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 55.98,
+                "date": "2025-04-02"
+            }
+        ]
+    }
+]
