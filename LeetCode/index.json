@@ -1,6 +1,21 @@
 [
     {
         "question": {
+            "questionId": "317",
+            "questionFrontendId": "317",
+            "link": "/problems/shortest-distance-from-all-buildings/",
+            "title": "Shortest Distance from All Buildings",
+            "titleSlug": "shortest-distance-from-all-buildings",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Breadth-First Search", "Matrix"],
+            "appearance": {
+                "weeklyChallenges": ["2025-04-01"]
+            }
+        }
+    },
+    {
+        "question": {
             "questionId": "2262",
             "questionFrontendId": "2140",
             "link": "/problems/solving-questions-with-brainpower/",
@@ -9,8 +24,35 @@
             "difficulty": "medium",
             "categoryTitle": "Algorithms",
             "topicTags": ["Array", "Dynamic Programming"],
-            "dailyCodingChallenges": ["2025-04-01"]
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-01"]
+            }
         }
+    },
+    {
+        "question": {
+            "questionId": "2428",
+            "questionFrontendId": "2352",
+            "link": "/problems/equal-row-and-column-pairs/",
+            "title": "Equal Row and Column Pairs",
+            "titleSlug": "equal-row-and-column-pairs",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Matrix", "Simulation"],
+            "appearance": {
+                "studyplans": ["LeetCode 75"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1595013115",
+                "t": "O(n*n)",
+                "s": "O(n*n)",
+                "runtime": 10,
+                "memory": 65.39,
+                "date": "2025-04-02"
+            }
+        ]
     },
     {
         "question": {
@@ -22,7 +64,10 @@
             "difficulty": "easy",
             "categoryTitle": "Algorithms",
             "topicTags": ["Array"],
-            "dailyCodingChallenges:": ["2025-04-02"]
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-02"]
+            }
+
         },
         "submissions": [
             {
@@ -34,18 +79,5 @@
                 "date": "2025-04-02"
             }
         ]
-    },
-    {
-        "question": {
-            "questionId": "317",
-            "questionFrontendId": "317",
-            "link": "/problems/shortest-distance-from-all-buildings/",
-            "title": "Shortest Distance from All Buildings",
-            "titleSlug": "shortest-distance-from-all-buildings",
-            "difficulty": "hard",
-            "categoryTitle": "Algorithms",
-            "topicTags": ["Array", "Breadth-First Search", "Matrix"],
-            "weeklyChallenges": ["2025-04-01"]
-        }
     }
 ]
