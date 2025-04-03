@@ -40,7 +40,7 @@
             "categoryTitle": "Algorithms",
             "topicTags": ["Array", "Hash Table", "Matrix", "Simulation"],
             "appearance": {
-                "studyplans": ["LeetCode 75"]
+                "studyPlans": ["LeetCode 75"]
             }
         },
         "submissions": [
@@ -77,6 +77,32 @@
                 "runtime": 0,
                 "memory": 55.98,
                 "date": "2025-04-02"
+            }
+        ]
+    },
+    {
+        "question": {
+            "questionId": "3152",
+            "questionFrontendId": "2874",
+            "link": "/problems/maximum-value-of-an-ordered-triplet-ii/",
+            "title": "Maximum Value of an Ordered Triplet II",
+            "titleSlug": "maximum-value-of-an-ordered-triplet-ii",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-03"]
+            }
+
+        },
+        "submissions": [
+            {
+                "id": "1595062377",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 67.97,
+                "date": "2025-04-03"
             }
         ]
     }
