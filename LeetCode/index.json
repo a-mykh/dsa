@@ -16,6 +16,46 @@
     },
     {
         "question": {
+            "questionId": "1218",
+            "questionFrontendId": "1123",
+            "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
+            "title": "Lowest Common Ancestor of Deepest Leaves",
+            "titleSlug": "lowest-common-ancestor-of-deepest-leaves",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "Tree", "Depth-First Search", "Breadth-First Search", "Binary Tree"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-04"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "Medium",
+                    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+                    "title": "Lowest Common Ancestor of a Binary Tree IV"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1596279317",
+                "t": "O(n)",
+                "s": "O(h)",
+                "runtime": 1,
+                "memory": 60.25,
+                "date": "2025-04-04"
+            },
+            {
+                "id": "1596413132",
+                "t": "O(n)",
+                "s": "O(h)",
+                "runtime": 1,
+                "memory": 60.42,
+                "date": "2025-04-04"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2262",
             "questionFrontendId": "2140",
             "link": "/problems/solving-questions-with-brainpower/",
