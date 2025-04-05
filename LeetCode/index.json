@@ -56,6 +56,31 @@
     },
     {
         "question": {
+            "questionId": "1993",
+            "questionFrontendId": "1863",
+            "link": "/problems/sum-of-all-subset-xor-totals/",
+            "title": "Sum of All Subset XOR Totals",
+            "titleSlug": "sum-of-all-subset-xor-totals",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Math", "Backtracking", "Bit Manipulation", "Combinatorics", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-05"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1597054984",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 53.90,
+                "date": "2025-04-05"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2262",
             "questionFrontendId": "2140",
             "link": "/problems/solving-questions-with-brainpower/",
