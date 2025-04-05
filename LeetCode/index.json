@@ -11,8 +11,43 @@
             "topicTags": ["Array", "Breadth-First Search", "Matrix"],
             "appearance": {
                 "weeklyChallenges": ["2025-04-01"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "walls-and-gates",
+                    "title": "Walls and Gates"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "best-meeting-point",
+                    "title": "Best Meeting Point"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "as-far-from-land-as-possible",
+                    "title": "As Far from Land as Possible"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1597241813",
+                "t": "O(m*n*b)",
+                "s": "O(m*n*b)",
+                "runtime": 891,
+                "memory": 86.04,
+                "date": "2025-04-05"
+            },
+            {
+                "id": "1597826167",
+                "t": "O(m²*n²)",
+                "s": "O(m*n)",
+                "runtime": 93,
+                "memory": 62.77,
+                "date": "2025-04-05"
             }
-        }
+        ]
     },
     {
         "question": {
@@ -111,8 +146,8 @@
         "submissions": [
             {
                 "id": "1595013115",
-                "t": "O(n*n)",
-                "s": "O(n*n)",
+                "t": "O(n²)",
+                "s": "O(n²)",
                 "runtime": 10,
                 "memory": 65.39,
                 "date": "2025-04-02"
