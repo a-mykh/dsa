@@ -51,6 +51,31 @@
     },
     {
         "question": {
+            "questionId": "368",
+            "questionFrontendId": "368",
+            "link": "/problems/largest-divisible-subset/",
+            "title": "Largest Divisible Subset",
+            "titleSlug": "largest-divisible-subset",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Math", "Dynamic Programming", "Sorting"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-06"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1598019780",
+                "t": "O(n²)",
+                "s": "O(n)",
+                "runtime": 15,
+                "memory": 58.9,
+                "date": "2025-04-06"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1218",
             "questionFrontendId": "1123",
             "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
