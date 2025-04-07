@@ -221,8 +221,38 @@
             "topicTags": ["Array", "Dynamic Programming"],
             "appearance": {
                 "dailyCodingChallenges": ["2025-04-01"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "house-robber",
+                    "title": "House Robber"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "frog-jump",
+                    "title": "Frog Jump"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1599786492",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 93,
+                "memory": 105.26,
+                "date": "2025-04-01"
+            },
+            {
+                "id": "1599823439",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 9,
+                "memory": 90.65,
+                "date": "2025-04-01"
             }
-        }
+        ]
     },
     {
         "question": {
