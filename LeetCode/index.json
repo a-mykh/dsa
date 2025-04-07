@@ -76,6 +76,76 @@
     },
     {
         "question": {
+            "questionId": "416",
+            "questionFrontendId": "416",
+            "link": "/problems/partition-equal-subset-sum/",
+            "title": "Partition Equal Subset Sum",
+            "titleSlug": "partition-equal-subset-sum",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Dynamic Programming"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-07"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "partition-to-k-equal-sum-subsets",
+                    "title": "Partition to K Equal Sum Subsets"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimize-the-difference-between-target-and-chosen-elements",
+                    "title": "Minimize the Difference Between Target and Chosen Elements"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "maximum-number-of-ways-to-partition-an-array",
+                    "title": "Maximum Number of Ways to Partition an Array"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+                    "title": "Partition Array Into Two Arrays to Minimize Sum Difference"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "find-subarrays-with-equal-sum",
+                    "title": "Find Subarrays With Equal Sum"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "number-of-great-partitions",
+                    "title": "Number of Great Partitions"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "split-with-minimum-sum",
+                    "title": "Split With Minimum Sum"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1599056512",
+                "t": "O(n*m)",
+                "s": "O(m)",
+                "runtime": 43,
+                "memory": 58.77,
+                "date": "2025-04-07"
+            },
+            {
+                "id": "1599091859",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 60.36,
+                "date": "2025-04-07"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1218",
             "questionFrontendId": "1123",
             "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
@@ -89,7 +159,7 @@
             },
             "similarQuestions": [
                 {
-                    "difficulty": "Medium",
+                    "difficulty": "medium",
                     "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
                     "title": "Lowest Common Ancestor of a Binary Tree IV"
                 }
