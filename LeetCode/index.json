@@ -329,7 +329,24 @@
             "topicTags": ["Array"],
             "appearance": {
                 "dailyCodingChallenges:": ["2025-04-03"]
-            }
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "trapping-rain-water",
+                    "title": "Trapping Rain Water"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "sum-of-beauty-in-the-array",
+                    "title": "Sum of Beauty in the Array"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-sum-of-mountain-triplets-ii",
+                    "title": "Minimum Sum of Mountain Triplets II"
+                }
+            ]
 
         },
         "submissions": [
