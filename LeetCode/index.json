@@ -291,7 +291,19 @@
             "topicTags": ["Array"],
             "appearance": {
                 "dailyCodingChallenges:": ["2025-04-02"]
-            }
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "number-of-arithmetic-triplets",
+                    "title": "Number of Arithmetic Triplets"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "minimum-sum-of-mountain-triplets-i",
+                    "title": "Minimum Sum of Mountain Triplets I"
+                }
+            ]
 
         },
         "submissions": [
