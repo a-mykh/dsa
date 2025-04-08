@@ -1,11 +1,21 @@
+/**
+ * Approach: Hash Map for frequency counting, hash key as number
+ * 
+ * `hash` function explanation:
+ * - the main idea is to use numeric hash instead of string (stringified array) for better performance.
+ * - the function converts an array of numbers into a single hash value of number type.
+ * - it uses a simple polynomial rolling hash approach.
+ * - `37` and `7` are random prime numbers that good enough to avoid collision and to make hash value more evenly.
+ * - Bitwise AND with MAX_SAFE_INTEGER helps prevent integer overflow
+ *       and ensures that the hash value stays within a manageable range.
+ * 
+ * Time: O(n²), where `n` is the size of grid
+ * Space: O(n²), because frequency maps could store hashes for all rows and columns if they are unique.
+ */
 function equalPairs(grid: number[][]): number {
     const n = grid.length;
     const rowFreq = new Map<number, number>();
     const colFreq = new Map<number, number>();
-
-    // Use numberic hash instead of string for better performance.
-    // 37 and 7 are random prime numbers that good enough to avoid collision and to make hash value more evenly.
-    // Bitwise AND with MAX_SAFE_INTEGER helps prevent integer overflow and ensures that the hash value stays within a manageable range.
     const hash = (arr: number[]): number => arr.reduce((a, e) => (a * 37 + e) & Number.MAX_SAFE_INTEGER, 7);
 
     for (let r = 0; r < n; r++) {
