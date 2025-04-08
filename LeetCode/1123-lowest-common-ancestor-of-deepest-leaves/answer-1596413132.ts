@@ -11,6 +11,7 @@
  *     }
  * }
  */
+
 interface TreeNode {
     val: number;
     left: TreeNode | null;
@@ -18,19 +19,21 @@ interface TreeNode {
 };
 
 /**
+ * Approach: Depth-First Search (DFS), Recursion, Memoization, without objects
+ * 
  * LCA - Lowest Common Ancestor.
  *
  * Recursively traversing the tree and calculating the depth of each node.
- * Identifying nodes where the left and right subtrees have the same depth, which indicates a potential LCA of deepest leaves.
+ * Identifying nodes where the left and right subtrees have the same depth,
+ *   which indicates a potential LCA of deepest leaves.
  * Keeping track of the maximum depth encountered and updating the LCA whenever a deeper or equally deep LCA is found.
  * Returning the final LCA that is at the deepest level.
  *
  * Time: O(n), where n is the number of nodes.
  * Space: O(h), where h is the height of the tree, due to the recursive call stack.
  *        In the worst case (a skewed tree), h can be n, making the space complexity O(n).
- *        In a balanced tree, the space complexity is O(logn).
+ *        In a balanced tree, the space complexity is O(log n).
  */
-
 function lcaDeepestLeaves(root: TreeNode | null): TreeNode | null {
     let lca = root;
     let maxDepth = 0;
@@ -53,4 +56,3 @@ function lcaDeepestLeaves(root: TreeNode | null): TreeNode | null {
 
     return lca;
 };
-

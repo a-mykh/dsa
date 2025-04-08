@@ -12,7 +12,15 @@
  * }
  */
 
+interface TreeNode {
+    val: number;
+    left: TreeNode | null;
+    right: TreeNode | null;
+};
+
 /**
+ * Approach: Depth-First Search (DFS), Recursion
+ * 
  * The algorithm recursively calculates the depth of the left and right subtrees using the `getDepth` helper function.
  * This helper function calculates the maximum depth of a binary tree rooted at the given node.
  * 
@@ -27,7 +35,6 @@
  * Time: O(n)
  * Space: O(h)
  */
-
 function lcaDeepestLeaves2(root: TreeNode | null): TreeNode | null {
     const depthL = getDepth(root?.left ?? null);
     const depthR = getDepth(root?.right ?? null);
@@ -39,5 +46,4 @@ function lcaDeepestLeaves2(root: TreeNode | null): TreeNode | null {
 
 function getDepth(n: TreeNode | null): number {
     return n ? 1 + Math.max(getDepth(n.left), getDepth(n.right)) : 0;
-}
-
+};
