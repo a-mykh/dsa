@@ -347,7 +347,6 @@
                     "title": "Minimum Sum of Mountain Triplets II"
                 }
             ]
-
         },
         "submissions": [
             {
@@ -357,6 +356,46 @@
                 "runtime": 1,
                 "memory": 67.97,
                 "date": "2025-04-03"
+            }
+        ]
+    },
+    {
+        "question": {
+            "questionId": "3656",
+            "questionFrontendId": "3396",
+            "link": "/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
+            "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+            "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-08"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-increment-to-make-array-unique",
+                    "title": "Minimum Increment to Make Array Unique"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1600126129",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 0,
+                "memory": 57.09,
+                "date": "2025-04-08"
+            },
+            {
+                "id": "1600192818",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 57.66,
+                "date": "2025-04-08"
             }
         ]
     }
