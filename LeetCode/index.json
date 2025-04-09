@@ -361,6 +361,39 @@
     },
     {
         "question": {
+            "questionId": "3621",
+            "questionFrontendId": "3375",
+            "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
+            "title": "Minimum Operations to Make Array Values Equal to K",
+            "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-09"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1601333834",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 42,
+                "memory": 57.90,
+                "date": "2025-04-09"
+            },
+            {
+                "id": "1601363344",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 52,
+                "memory": 59.17,
+                "date": "2025-04-09"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3656",
             "questionFrontendId": "3396",
             "link": "/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
