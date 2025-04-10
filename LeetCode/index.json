@@ -361,6 +361,43 @@
     },
     {
         "question": {
+            "questionId": "3243",
+            "questionFrontendId": "2999",
+            "link": "/problems/count-the-number-of-powerful-integers/",
+            "title": "Count the Number of Powerful Integers",
+            "titleSlug": "count-the-number-of-powerful-integers",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "String", "Dynamic Programming"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-10"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "powerful-integers",
+                    "title": "Powerful Integers"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "numbers-with-repeated-digits",
+                    "title": "Numbers With Repeated Digits"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1602493185",
+                "t": "O(log(n))",
+                "s": "O(log(n))",
+                "runtime": 1,
+                "memory": 58.26,
+                "date": "2025-04-10"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3621",
             "questionFrontendId": "3375",
             "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
