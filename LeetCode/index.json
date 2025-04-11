@@ -281,6 +281,43 @@
     },
     {
         "question": {
+            "questionId": "2998",
+            "questionFrontendId": "2843",
+            "link": "/problems/count-symmetric-integers/",
+            "title": "Count Symmetric Integers",
+            "titleSlug": "count-symmetric-integers",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-11"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "palindrome-number",
+                    "title": "Palindrome Number"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "sum-of-digits-in-base-k",
+                    "title": "Sum of Digits in Base K"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1603268178",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 34,
+                "memory": 59.26,
+                "date": "2025-04-11"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3154",
             "questionFrontendId": "2873",
             "link": "/problems/maximum-value-of-an-ordered-triplet-i/",
