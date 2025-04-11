@@ -186,6 +186,48 @@
     },
     {
         "question": {
+            "questionId": "1777",
+            "questionFrontendId": "1657",
+            "link": "/problems/determine-if-two-strings-are-close/",
+            "title": "Determine if Two Strings Are Close",
+            "titleSlug": "determine-if-two-strings-are-close",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "String", "Sorting", "Counting"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "buddy-strings",
+                    "title": "Buddy Strings"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-swaps-to-make-strings-equal",
+                    "title": "Minimum Swaps to Make Strings Equal"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+                    "title": "Minimum Number of Steps to Make Two Strings Anagram"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1592585966",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 10,
+                "memory": 63.48,
+                "date": "2025-03-31"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1993",
             "questionFrontendId": "1863",
             "link": "/problems/sum-of-all-subset-xor-totals/",
