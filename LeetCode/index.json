@@ -477,6 +477,43 @@
     },
     {
         "question": {
+            "questionId": "3548",
+            "questionFrontendId": "3272",
+            "link": "/problems/find-the-count-of-good-integers/",
+            "title": "Find the Count of Good Integers",
+            "titleSlug": "find-the-count-of-good-integers",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "Math", "Combinatorics", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-12"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "palindrome-number",
+                    "title": "Palindrome Number"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "find-the-closest-palindrome",
+                    "title": "Find the Closest Palindrome"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1604890877",
+                "t": "O(1e(n/2) + n*log(n))",
+                "s": "O(n * 1e(n/2))",
+                "runtime": 870,
+                "memory": 77.46,
+                "date": "2025-04-12"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3621",
             "questionFrontendId": "3375",
             "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
