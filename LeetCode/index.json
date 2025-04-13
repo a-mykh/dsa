@@ -253,6 +253,38 @@
     },
     {
         "question": {
+            "questionId": "2050",
+            "questionFrontendId": "1922",
+            "link": "/problems/count-good-numbers/",
+            "title": "Count Good Numbers",
+            "titleSlug": "count-good-numbers",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Recursion"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-13"]
+            },
+            "similarQuestions":[
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+                    "title": "Count the Number of Arrays with K Matching Adjacent Elements"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1605399506",
+                "t": "O(log(n))",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 56.68,
+                "date": "2025-04-13"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2262",
             "questionFrontendId": "2140",
             "link": "/problems/solving-questions-with-brainpower/",
