@@ -51,6 +51,58 @@
     },
     {
         "question": {
+            "questionId": "323",
+            "questionFrontendId": "323",
+            "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+            "title": "Number of Connected Components in an Undirected Graph",
+            "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Depth-First Search", "Breadth-First Search", "Union Find", "Graph"],
+            "appearance": {
+                "weeklyChallenges": ["2025-04-08"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "number-of-islands",
+                    "title": "Number of Islands"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "graph-valid-tree",
+                    "title": "Graph Valid Tree"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "number-of-provinces",
+                    "title": "Number of Provinces"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "paths-in-maze-that-lead-to-same-room",
+                    "title": "Paths in Maze That Lead to Same Room"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "count-the-number-of-complete-components",
+                    "title": "Count the Number of Complete Components"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1605533030",
+                "t": "O(m*a(n))",
+                "s": "O(n)",
+                "runtime": 3,
+                "memory": 60.68,
+                "date": "2025-04-13"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "368",
             "questionFrontendId": "368",
             "link": "/problems/largest-divisible-subset/",
