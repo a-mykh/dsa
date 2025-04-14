@@ -238,6 +238,51 @@
     },
     {
         "question": {
+            "questionId": "1656",
+            "questionFrontendId": "1534",
+            "link": "/problems/count-good-triplets/",
+            "title": "Count Good Triplets",
+            "titleSlug": "count-good-triplets",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-14"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "count-special-quadruplets",
+                    "title": "Count Special Quadruplets"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "number-of-unequal-triplets-in-array",
+                    "title": "Number of Unequal Triplets in Array"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1606119133",
+                "t": "O(n³)",
+                "s": "O(1)",
+                "runtime": 50,
+                "memory": 55.92,
+                "date": "2025-04-14"
+            },
+            {
+                "id": "1606130748",
+                "t": "O(n²)",
+                "s": "O(1)",
+                "runtime": 42,
+                "memory": 57.28,
+                "date": "2025-04-14"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1777",
             "questionFrontendId": "1657",
             "link": "/problems/determine-if-two-strings-are-close/",
