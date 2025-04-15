@@ -427,6 +427,69 @@
     },
     {
         "question": {
+            "questionId": "2280",
+            "questionFrontendId": "2179",
+            "link": "/problems/count-good-triplets-in-an-array/",
+            "title": "Count Good Triplets in an Array",
+            "titleSlug": "count-good-triplets-in-an-array",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": [
+                "Array", "Binary Search", "Divide and Conquer", "Binary Indexed Tree",
+                "Segment Tree", "Merge Sort", "Ordered Set"
+            ],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-15"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-of-smaller-numbers-after-self",
+                    "title": "Count of Smaller Numbers After Self"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "increasing-triplet-subsequence",
+                    "title": "Increasing Triplet Subsequence"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "create-sorted-array-through-instructions",
+                    "title": "Create Sorted Array through Instructions"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "number-of-good-paths",
+                    "title": "Number of Good Paths"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-increasing-quadruplets",
+                    "title": "Count Increasing Quadruplets"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1607239579",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 1044,
+                "memory": 84.3,
+                "date": "2025-04-15"
+            },
+            {
+                "id": "1607328425",
+                "t": "O(n*log(n))",
+                "s": "O(n)",
+                "runtime": 28,
+                "memory": 70.48,
+                "date": "2025-04-15"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2428",
             "questionFrontendId": "2352",
             "link": "/problems/equal-row-and-column-pairs/",
