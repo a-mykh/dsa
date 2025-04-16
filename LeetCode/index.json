@@ -515,6 +515,43 @@
     },
     {
         "question": {
+            "questionId": "2626",
+            "questionFrontendId": "2537",
+            "link": "/problems/count-the-number-of-good-subarrays/",
+            "title": "Count the Number of Good Subarrays",
+            "titleSlug": "count-the-number-of-good-subarrays",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Sliding Window"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-16"]
+            },
+            "similarQuestions":[
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "count-number-of-homogenous-substrings",
+                    "title": "Count Number of Homogenous Substrings"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+                    "title": "Maximum Sum of Distinct Subarrays With Length K"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1608725197",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 33,
+                "memory": 78.83,
+                "date": "2025-04-16"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2998",
             "questionFrontendId": "2843",
             "link": "/problems/count-symmetric-integers/",
