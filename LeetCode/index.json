@@ -427,6 +427,59 @@
     },
     {
         "question": {
+            "questionId": "2277",
+            "questionFrontendId": "2176",
+            "link": "/problems/count-equal-and-divisible-pairs-in-an-array/",
+            "title": "Count Equal and Divisible Pairs in an Array",
+            "titleSlug": "count-equal-and-divisible-pairs-in-an-array",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-17"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+                    "title": "Count Number of Pairs With Absolute Difference K"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "count-number-of-bad-pairs",
+                    "title": "Count Number of Bad Pairs"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1609112567",
+                "t": "O(n²)",
+                "s": "O(n)",
+                "runtime": 4,
+                "memory": 58.43,
+                "date": "2025-04-17"
+            },
+            {
+                "id": "1609116694",
+                "t": "O(n²)",
+                "s": "O(1)",
+                "runtime": 2,
+                "memory": 55.99,
+                "date": "2025-04-17"
+            },
+            {
+                "id": "1609173203",
+                "t": "O(n²)",
+                "s": "O(1)",
+                "runtime": 2,
+                "memory": 58.50,
+                "date": "2025-04-17"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2280",
             "questionFrontendId": "2179",
             "link": "/problems/count-good-triplets-in-an-array/",
