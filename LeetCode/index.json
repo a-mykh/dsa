@@ -1,6 +1,43 @@
 [
     {
         "question": {
+            "questionId": "38",
+            "questionFrontendId": "38",
+            "link": "/problems/count-and-say/",
+            "title": "Count and Say",
+            "titleSlug": "count-and-say",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["String"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-18"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "encode-and-decode-strings",
+                    "title": "Encode and Decode Strings"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "string-compression",
+                    "title": "String Compression"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1610115448",
+                "t": "O(n*m)",
+                "s": "O(n+m)",
+                "runtime": 0,
+                "memory": 58.24,
+                "date": "2025-04-18"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "317",
             "questionFrontendId": "317",
             "link": "/problems/shortest-distance-from-all-buildings/",
