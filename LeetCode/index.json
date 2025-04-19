@@ -642,6 +642,61 @@
     },
     {
         "question": {
+            "questionId": "2699",
+            "questionFrontendId": "2563",
+            "link": "/problems/count-the-number-of-fair-pairs/",
+            "title": "Count the Number of Fair Pairs",
+            "titleSlug": "count-the-number-of-fair-pairs",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Two Pointers", "Binary Search", "Sorting"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-19"]
+            },
+            "similarQuestions":[
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-of-range-sum",
+                    "title": "Count of Range Sum"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "finding-pairs-with-a-certain-sum",
+                    "title": "Finding Pairs With a Certain Sum"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+                    "title": "Count Number of Pairs With Absolute Difference K"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "count-pairs-whose-sum-is-less-than-target",
+                    "title": "Count Pairs Whose Sum is Less than Target"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1611067438",
+                "t": "O(n*log(n))",
+                "s": "O(n)",
+                "runtime": 111,
+                "memory": 68.11,
+                "date": "2025-04-19"
+            },
+            {
+                "id": "1611838825",
+                "t": "O(n*log(n))",
+                "s": "O(n)",
+                "runtime": 87,
+                "memory": 67.97,
+                "date": "2025-04-19"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2998",
             "questionFrontendId": "2843",
             "link": "/problems/count-symmetric-integers/",
