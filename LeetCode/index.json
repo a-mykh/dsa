@@ -292,6 +292,39 @@
     },
     {
         "question": {
+            "questionId": "797",
+            "questionFrontendId": "781",
+            "link": "/problems/rabbits-in-forest/",
+            "title": "Rabbits in Forest",
+            "titleSlug": "rabbits-in-forest",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Math", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-20"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1612042695",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 0,
+                "memory": 58.15,
+                "date": "2025-04-20"
+            },
+            {
+                "id": "1612137894",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 58.14,
+                "date": "2025-04-20"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1218",
             "questionFrontendId": "1123",
             "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
