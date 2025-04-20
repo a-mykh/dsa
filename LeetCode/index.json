@@ -140,6 +140,63 @@
     },
     {
         "question": {
+            "questionId": "325",
+            "questionFrontendId": "325",
+            "link": "/problems/maximum-size-subarray-sum-equals-k/",
+            "title": "Maximum Size Subarray Sum Equals k",
+            "titleSlug": "maximum-size-subarray-sum-equals-k",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Prefix Sum"],
+            "appearance": {
+                "weeklyChallenges": ["2025-04-15"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-size-subarray-sum",
+                    "title": "Minimum Size Subarray Sum"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "range-sum-query-immutable",
+                    "title": "Range Sum Query - Immutable"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "contiguous-array",
+                    "title": "Contiguous Array"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "subarray-product-less-than-k",
+                    "title": "Subarray Product Less Than K"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-beauty-of-an-array-after-applying-operation",
+                    "title": "Maximum Beauty of an Array After Applying Operation"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+                    "title": "Shortest Subarray With OR at Least K II"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1611942522",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 71,
+                "memory": 95.00,
+                "date": "2025-04-19"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "368",
             "questionFrontendId": "368",
             "link": "/problems/largest-divisible-subset/",
