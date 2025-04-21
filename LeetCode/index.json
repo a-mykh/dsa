@@ -554,6 +554,31 @@
     },
     {
         "question": {
+            "questionId": "2249",
+            "questionFrontendId": "2145",
+            "link": "/problems/count-the-hidden-sequences/",
+            "title": "Count the Hidden Sequences",
+            "titleSlug": "count-the-hidden-sequences",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Prefix Sum"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-21"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1613335493",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 68.73,
+                "date": "2025-04-21"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2277",
             "questionFrontendId": "2176",
             "link": "/problems/count-equal-and-divisible-pairs-in-an-array/",
