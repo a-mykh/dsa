@@ -29,5 +29,5 @@ A **subarray** is a contiguous **non-empty** sequence of elements within an arra
 
 **Constraints:**
 
-- `1 <= nums.length <= 105`
-- `1 <= nums[i], k <= 109`
+- `1 <= nums.length <= 10^5`
+- `1 <= nums[i], k <= 10^9`

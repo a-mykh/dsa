@@ -24,4 +24,4 @@ Return _the **number of symmetric** integers in the range_ `[low, high]`.
 
 **Constraints:**
 
-- `1 <= low <= high <= 104`
+- `1 <= low <= high <= 10^4`

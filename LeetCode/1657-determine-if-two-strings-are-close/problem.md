@@ -40,5 +40,5 @@ Apply Operation 2: "baaccc" -> "abbccc"
 
 **Constraints:**
 
-- `1 <= word1.length, word2.length <= 105`
+- `1 <= word1.length, word2.length <= 10^5`
 - `word1` and `word2` contain only lowercase English letters.

@@ -25,7 +25,7 @@ A pair `(i, j)` is **fair** if:
 
 **Constraints:**
 
-- `1 <= nums.length <= 105`
+- `1 <= nums.length <= 10^5`
 - `nums.length == n`
-- `-109 <= nums[i] <= 109`
-- `-109 <= lower <= upper <= 109`
+- `-10^9 <= nums[i] <= 10^9`
+- `-10^9 <= lower <= upper <= 10^9`

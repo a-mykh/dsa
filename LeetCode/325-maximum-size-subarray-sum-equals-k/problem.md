@@ -20,6 +20,6 @@ Given an integer array `nums` and an integer `k`, return _the maximum length of 
 
 **Constraints:**
 
-- `1 <= nums.length <= 2 * 105`
-- `-104 <= nums[i] <= 104`
-- `-109 <= k <= 109`
+- `1 <= nums.length <= 2 * 10^5`
+- `-10^4 <= nums[i] <= 10^4`
+- `-10^9 <= k <= 10^9`

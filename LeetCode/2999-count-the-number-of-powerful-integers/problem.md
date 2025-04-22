@@ -34,7 +34,7 @@ It can be shown that there are only 2 powerful integers in this range.
 
 **Constraints:**
 
-- `1 <= start <= finish <= 1015`
+- `1 <= start <= finish <= 10^15`
 - `1 <= limit <= 9`
 - `1 <= s.length <= floor(log10(finish)) + 1`
 - `s` only consists of numeric digits which are at most `limit`.

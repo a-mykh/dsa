@@ -44,6 +44,6 @@ Thus, we return 4.
 **Constraints:**
 
 - `n == differences.length`
-- `1 <= n <= 105`
-- `-105 <= differences[i] <= 105`
-- `-105 <= lower <= upper <= 105`
+- `1 <= n <= 10^5`
+- `-10^5 <= differences[i] <= 10^5`
+- `-10^5 <= lower <= upper <= 10^5`

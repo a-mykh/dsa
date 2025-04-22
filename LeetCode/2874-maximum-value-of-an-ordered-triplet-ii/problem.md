@@ -32,5 +32,5 @@ It can be shown that there are no ordered triplets of indices with a value great
 
 **Constraints:**
 
-- `3 <= nums.length <= 105`
-- `1 <= nums[i] <= 106`
+- `3 <= nums.length <= 10^5`
+- `1 <= nums[i] <= 10^6`

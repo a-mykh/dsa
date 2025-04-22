@@ -34,4 +34,4 @@ A row and column pair is considered equal if they contain the same elements in t
 
 - `n == grid.length == grid[i].length`
 - `1 <= n <= 200`
-- `1 <= grid[i][j] <= 105`
+- `1 <= grid[i][j] <= 10^5`

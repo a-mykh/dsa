@@ -27,6 +27,6 @@ Out of those triplets, only the triplet (0,1,3) satisfies pos2x < pos2y < pos2z.
 **Constraints:**
 
 - `n == nums1.length == nums2.length`
-- `3 <= n <= 105`
+- `3 <= n <= 10^5`
 - `0 <= nums1[i], nums2[i] <= n - 1`
 - `nums1` and `nums2` are permutations of`[0, 1, ..., n - 1]`.
