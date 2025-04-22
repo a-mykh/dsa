@@ -695,6 +695,43 @@
     },
     {
         "question": {
+            "questionId": "2415",
+            "questionFrontendId": "2338",
+            "link": "/problems/count-the-number-of-ideal-arrays/",
+            "title": "Count the Number of Ideal Arrays",
+            "titleSlug": "count-the-number-of-ideal-arrays",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Dynamic Programming", "Combinatorics", "Number Theory"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-15"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-ways-to-make-array-with-product",
+                    "title": "Count Ways to Make Array With Product"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "count-the-number-of-beautiful-subarrays",
+                    "title": "Count the Number of Beautiful Subarrays"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1614443516",
+                "t": "O(max(n, maxValue) * log(max(n, maxValue)))",
+                "s": "O(max_constraint)",
+                "runtime": 16,
+                "memory": 66.74,
+                "date": "2025-04-22"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2428",
             "questionFrontendId": "2352",
             "link": "/problems/equal-row-and-column-pairs/",
