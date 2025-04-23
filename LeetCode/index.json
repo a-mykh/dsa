@@ -365,6 +365,31 @@
     },
     {
         "question": {
+            "questionId": "1500",
+            "questionFrontendId": "1399",
+            "link": "/problems/count-largest-group/",
+            "title": "Count Largest Group",
+            "titleSlug": "count-largest-group",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "Math"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-23"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1615196372",
+                "t": "O(n*log(n))",
+                "s": "O(1)",
+                "runtime": 4,
+                "memory": 58.32,
+                "date": "2025-04-23"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1656",
             "questionFrontendId": "1534",
             "link": "/problems/count-good-triplets/",
