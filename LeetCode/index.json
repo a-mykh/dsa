@@ -964,6 +964,43 @@
     },
     {
         "question": {
+            "questionId": "2915",
+            "questionFrontendId": "2845",
+            "link": "/problems/count-of-interesting-subarrays/",
+            "title": "Count of Interesting Subarrays",
+            "titleSlug": "count-of-interesting-subarrays",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Prefix Sum"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-25"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "subarray-sums-divisible-by-k",
+                    "title": "Subarray Sums Divisible by K"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "count-number-of-nice-subarrays",
+                    "title": "Count Number of Nice Subarrays"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1617274379",
+                "t": "O(n)",
+                "s": "O(modulo)",
+                "runtime": 28,
+                "memory": 74.91,
+                "date": "2025-04-25"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3154",
             "questionFrontendId": "2873",
             "link": "/problems/maximum-value-of-an-ordered-triplet-i/",
