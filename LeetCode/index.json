@@ -782,6 +782,31 @@
     },
     {
         "question": {
+            "questionId": "2527",
+            "questionFrontendId": "2444",
+            "link": "/problems/count-subarrays-with-fixed-bounds/",
+            "title": "Count Subarrays With Fixed Bounds",
+            "titleSlug": "count-subarrays-with-fixed-bounds",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Queue", "Sliding Window", "Monotonic Queue"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-26"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1618734524",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 6,
+                "memory": 66.82,
+                "date": "2025-04-26"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2626",
             "questionFrontendId": "2537",
             "link": "/problems/count-the-number-of-good-subarrays/",
