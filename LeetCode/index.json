@@ -38,6 +38,43 @@
     },
     {
         "question": {
+            "questionId": "302",
+            "questionFrontendId": "302",
+            "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
+            "title": "Smallest Rectangle Enclosing Black Pixels",
+            "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Binary Search", "Depth-First Search", "Breadth-First Search", "Matrix"],
+            "appearance": {
+                "weeklyChallenges": ["2025-04-22"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "find-the-minimum-area-to-cover-all-ones-ii",
+                    "title": "Find the Minimum Area to Cover All Ones II"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
+                    "title": "Find the Minimum Area to Cover All Ones I"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1619681308",
+                "t": "O(m*log(n) + n*log(m))",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 59.24,
+                "date": "2025-04-27"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "317",
             "questionFrontendId": "317",
             "link": "/problems/shortest-distance-from-all-buildings/",
