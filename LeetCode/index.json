@@ -757,6 +757,48 @@
     },
     {
         "question": {
+            "questionId": "2394",
+            "questionFrontendId": "2302",
+            "link": "/problems/count-subarrays-with-score-less-than-k/",
+            "title": "Count Subarrays With Score Less Than K",
+            "titleSlug": "count-subarrays-with-score-less-than-k",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Binary Search", "Sliding Window", "Prefix Sum"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-28"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-subarray",
+                    "title": "Maximum Subarray"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "subarray-product-less-than-k",
+                    "title": "Subarray Product Less Than K"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "binary-subarrays-with-sum",
+                    "title": "Binary Subarrays With Sum"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1619822757",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 5,
+                "memory": 68.43,
+                "date": "2025-04-28"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2415",
             "questionFrontendId": "2338",
             "link": "/problems/count-the-number-of-ideal-arrays/",
