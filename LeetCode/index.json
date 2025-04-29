@@ -1185,6 +1185,38 @@
     },
     {
         "question": {
+            "questionId": "3213",
+            "questionFrontendId": "2962",
+            "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+            "title": "Count Subarrays Where Max Element Appears at Least K Times",
+            "titleSlug": "count-subarrays-where-max-element-appears-at-least-k-times",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Sliding Window"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-04-29"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+                    "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1620831021",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 5,
+                "memory": 69.40,
+                "date": "2025-04-29"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3243",
             "questionFrontendId": "2999",
             "link": "/problems/count-the-number-of-powerful-integers/",
