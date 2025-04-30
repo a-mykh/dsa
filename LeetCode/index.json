@@ -402,6 +402,56 @@
     },
     {
         "question": {
+            "questionId": "1421",
+            "questionFrontendId": "1295",
+            "link": "/problems/find-numbers-with-even-number-of-digits/",
+            "title": "Find Numbers with Even Number of Digits",
+            "titleSlug": "find-numbers-with-even-number-of-digits",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Math"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-04-30"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "Easy",
+                    "titleSlug": "finding-3-digit-even-numbers",
+                    "title": "Finding 3-Digit Even Numbers"
+                },
+                {
+                    "difficulty": "Easy",
+                    "titleSlug": "number-of-even-and-odd-bits",
+                    "title": "Number of Even and Odd Bits"
+                },
+                {
+                    "difficulty": "Easy",
+                    "titleSlug": "find-if-digit-game-can-be-won",
+                    "title": "Find if Digit Game Can Be Won"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1621586322",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 58.04,
+                "date": "2025-04-30"
+            },
+            {
+                "id": "1621601842",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 5,
+                "memory": 57.65,
+                "date": "2025-04-30"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1500",
             "questionFrontendId": "1399",
             "link": "/problems/count-largest-group/",
