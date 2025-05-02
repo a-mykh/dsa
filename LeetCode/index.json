@@ -362,6 +362,31 @@
     },
     {
         "question": {
+            "questionId": "868",
+            "questionFrontendId": "838",
+            "link": "/problems/push-dominoes/",
+            "title": "Push Dominoes",
+            "titleSlug": "push-dominoes",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Two Pointers", "String", "Dynamic Programming"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-02"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1623381475",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 28,
+                "memory": 65.71,
+                "date": "2025-05-02"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1218",
             "questionFrontendId": "1123",
             "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
@@ -600,7 +625,7 @@
             "appearance": {
                 "dailyCodingChallenges": ["2025-04-13"]
             },
-            "similarQuestions":[
+            "similarQuestions": [
                 {
                     "difficulty": "hard",
                     "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
@@ -632,7 +657,7 @@
             "appearance": {
                 "dailyCodingChallenges": ["2025-05-01"]
             },
-            "similarQuestions":[
+            "similarQuestions": [
                 {
                     "difficulty": "medium",
                     "titleSlug": "most-profit-assigning-work",
@@ -999,7 +1024,7 @@
             "appearance": {
                 "dailyCodingChallenges": ["2025-04-16"]
             },
-            "similarQuestions":[
+            "similarQuestions": [
                 {
                     "difficulty": "medium",
                     "titleSlug": "count-number-of-homogenous-substrings",
@@ -1036,7 +1061,7 @@
             "appearance": {
                 "dailyCodingChallenges": ["2025-04-19"]
             },
-            "similarQuestions":[
+            "similarQuestions": [
                 {
                     "difficulty": "hard",
                     "titleSlug": "count-of-range-sum",
@@ -1091,7 +1116,7 @@
             "appearance": {
                 "dailyCodingChallenges": ["2025-04-24"]
             },
-            "similarQuestions":[
+            "similarQuestions": [
                 {
                     "difficulty": "medium",
                     "titleSlug": "longest-substring-without-repeating-characters",
