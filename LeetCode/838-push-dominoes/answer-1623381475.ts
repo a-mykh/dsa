@@ -20,7 +20,7 @@
  * Time: O(n)   
  * Space: O(n) for `domArray`
  */
-function pushDominoes(dominoes: string): string {
+function pushDominoes2(dominoes: string): string {
     const n = dominoes.length;
     const domArray: string[] = dominoes.split('');
     let pL = -1;
