@@ -387,6 +387,31 @@
     },
     {
         "question": {
+            "questionId": "1049",
+            "questionFrontendId": "1007",
+            "link": "/problems/minimum-domino-rotations-for-equal-row/",
+            "title": "Minimum Domino Rotations For Equal Row",
+            "titleSlug": "minimum-domino-rotations-for-equal-row",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-03"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1624746399",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 2,
+                "memory": 65.18,
+                "date": "2025-05-03"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1218",
             "questionFrontendId": "1123",
             "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
