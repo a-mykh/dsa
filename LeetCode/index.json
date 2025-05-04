@@ -452,6 +452,39 @@
     },
     {
         "question": {
+            "questionId": "1227",
+            "questionFrontendId": "1128",
+            "link": "/problems/number-of-equivalent-domino-pairs/",
+            "title": "Number of Equivalent Domino Pairs",
+            "titleSlug": "number-of-equivalent-domino-pairs",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Counting"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-04"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1624971499",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 9,
+                "memory": 66.26,
+                "date": "2025-05-04"
+            },
+            {
+                "id": "1624975487",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 3,
+                "memory": 65.93,
+                "date": "2025-05-04"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1421",
             "questionFrontendId": "1295",
             "link": "/problems/find-numbers-with-even-number-of-digits/",
@@ -465,17 +498,17 @@
             },
             "similarQuestions": [
                 {
-                    "difficulty": "Easy",
+                    "difficulty": "easy",
                     "titleSlug": "finding-3-digit-even-numbers",
                     "title": "Finding 3-Digit Even Numbers"
                 },
                 {
-                    "difficulty": "Easy",
+                    "difficulty": "easy",
                     "titleSlug": "number-of-even-and-odd-bits",
                     "title": "Number of Even and Odd Bits"
                 },
                 {
-                    "difficulty": "Easy",
+                    "difficulty": "easy",
                     "titleSlug": "find-if-digit-game-can-be-won",
                     "title": "Find if Digit Game Can Be Won"
                 }
