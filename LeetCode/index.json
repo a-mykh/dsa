@@ -362,6 +362,31 @@
     },
     {
         "question": {
+            "questionId": "806",
+            "questionFrontendId": "790",
+            "link": "/problems/domino-and-tromino-tiling/",
+            "title": "Domino and Tromino Tiling",
+            "titleSlug": "domino-and-tromino-tiling",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Dynamic Programming"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-05"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1625920971",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 1,
+                "memory": 55.16,
+                "date": "2025-05-05"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "868",
             "questionFrontendId": "838",
             "link": "/problems/push-dominoes/",
