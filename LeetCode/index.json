@@ -697,6 +697,40 @@
     },
     {
         "question": {
+            "questionId": "2048",
+            "questionFrontendId": "1920",
+            "link": "/problems/build-array-from-permutation/",
+            "title": "Build Array from Permutation",
+            "titleSlug": "build-array-from-permutation",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Simulation"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-06"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1626570507",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 59.28,
+                "date": "2025-05-06"
+            },
+            {
+                "id": "1626571372",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 4,
+                "memory": 59.84,
+                "date": "2025-05-06"
+            }
+            
+        ]
+    },
+    {
+        "question": {
             "questionId": "2050",
             "questionFrontendId": "1922",
             "link": "/problems/count-good-numbers/",
