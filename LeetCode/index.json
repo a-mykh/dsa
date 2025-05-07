@@ -1543,6 +1543,43 @@
     },
     {
         "question": {
+            "questionId": "3627",
+            "questionFrontendId": "3341",
+            "link": "/problems/find-minimum-time-to-reach-last-room-i/",
+            "title": "Find Minimum Time to Reach Last Room I",
+            "titleSlug": "find-minimum-time-to-reach-last-room-i",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Graph", "Heap (Priority Queue)", "Matrix", "Shortest Path"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-07"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "Hard",
+                    "titleSlug": "minimum-cost-to-reach-destination-in-time",
+                    "title": "Minimum Cost to Reach Destination in Time"
+                },
+                {
+                    "difficulty": "Hard",
+                    "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
+                    "title": "Minimum Time to Visit a Cell In a Grid"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1628163682",
+                "t": "O(n*m)",
+                "s": "O(n*m)",
+                "runtime": 75,
+                "memory": 63.35,
+                "date": "2025-05-07"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3621",
             "questionFrontendId": "3375",
             "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
