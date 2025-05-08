@@ -510,6 +510,31 @@
     },
     {
         "question": {
+            "questionId": "1319",
+            "questionFrontendId": "1207",
+            "link": "/problems/unique-number-of-occurrences/",
+            "title": "Unique Number of Occurrences",
+            "titleSlug": "unique-number-of-occurrences",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1629007429",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 0,
+                "memory": 54.51,
+                "date": "2025-05-08"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1421",
             "questionFrontendId": "1295",
             "link": "/problems/find-numbers-with-even-number-of-digits/",
