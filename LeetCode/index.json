@@ -1026,6 +1026,56 @@
     },
     {
         "question": {
+            "questionId": "1392",
+            "questionFrontendId": "2215",
+            "link": "/problems/find-the-difference-of-two-arrays/",
+            "title": "Find the Difference of Two Arrays",
+            "titleSlug": "find-the-difference-of-two-arrays",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "intersection-of-two-arrays",
+                    "title": "Intersection of Two Arrays"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "intersection-of-two-arrays-ii",
+                    "title": "Intersection of Two Arrays II"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "intersection-of-multiple-arrays",
+                    "title": "Intersection of Multiple Arrays"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1592483325",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 6,
+                "memory": 63.01,
+                "date": "2025-03-31"
+            },
+            {
+                "id": "1592489965",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 8,
+                "memory": 62.67,
+                "date": "2025-03-31"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2394",
             "questionFrontendId": "2302",
             "link": "/problems/count-subarrays-with-score-less-than-k/",
