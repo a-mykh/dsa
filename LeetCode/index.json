@@ -1556,6 +1556,31 @@
     },
     {
         "question": {
+            "questionId": "3171",
+            "questionFrontendId": "2918",
+            "link": "/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/",
+            "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+            "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-10"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1630452432",
+                "t": "O(n+m)",
+                "s": "O(1)",
+                "runtime": 73,
+                "memory": 70.11,
+                "date": "2025-05-10"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3213",
             "questionFrontendId": "2962",
             "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
