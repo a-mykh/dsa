@@ -329,6 +329,58 @@
     },
     {
         "question": {
+            "questionId": "724",
+            "questionFrontendId": "724",
+            "link": "/problems/find-pivot-index/",
+            "title": "Find Pivot Index",
+            "titleSlug": "find-pivot-index",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Prefix Sum"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "subarray-sum-equals-k",
+                    "title": "Subarray Sum Equals K"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "find-the-middle-index-in-array",
+                    "title": "Find the Middle Index in Array"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "number-of-ways-to-split-array",
+                    "title": "Number of Ways to Split Array"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-sum-score-of-array",
+                    "title": "Maximum Sum Score of Array"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "left-and-right-sum-differences",
+                    "title": "Left and Right Sum Differences"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1630402750",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 58.78,
+                "date": "2025-05-10"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "797",
             "questionFrontendId": "781",
             "link": "/problems/rabbits-in-forest/",
