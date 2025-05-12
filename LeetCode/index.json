@@ -707,6 +707,47 @@
     },
     {
         "question": {
+            "questionId": "1293",
+            "questionFrontendId": "1550",
+            "link": "/problems/three-consecutive-odds/",
+            "title": "Three Consecutive Odds",
+            "titleSlug": "three-consecutive-odds",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-11"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1630565209",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 55.34,
+                "date": "2025-05-11"
+            },
+            {
+                "id": "1630571355",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 55.62,
+                "date": "2025-05-11"
+            },
+            {
+                "id": "1630584898",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 55.92,
+                "date": "2025-05-11"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1777",
             "questionFrontendId": "1657",
             "link": "/problems/determine-if-two-strings-are-close/",
