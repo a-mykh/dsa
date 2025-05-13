@@ -933,6 +933,38 @@
     },
     {
         "question": {
+            "questionId": "2215",
+            "questionFrontendId": "2094",
+            "link": "/problems/finding-3-digit-even-numbers/",
+            "title": "Finding 3-Digit Even Numbers",
+            "titleSlug": "finding-3-digit-even-numbers",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Sorting", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-12"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "find-numbers-with-even-number-of-digits",
+                    "title": "Find Numbers with Even Number of Digits"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1631618783",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 3,
+                "memory": 57.71,
+                "date": "2025-05-12"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2262",
             "questionFrontendId": "2140",
             "link": "/problems/solving-questions-with-brainpower/",
