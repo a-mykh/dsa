@@ -1768,6 +1768,31 @@
     },
     {
         "question": {
+            "questionId": "3629",
+            "questionFrontendId": "3335",
+            "link": "/problems/total-characters-in-string-after-transformations-i/",
+            "title": "Total Characters in String After Transformations I",
+            "titleSlug": "total-characters-in-string-after-transformations-i",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "Math", "String", "Dynamic Programming", "Counting"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-13"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1633261214",
+                "t": "O(n+t)",
+                "s": "O(1)",
+                "runtime": 63,
+                "memory": 60.73,
+                "date": "2025-05-13"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3627",
             "questionFrontendId": "3341",
             "link": "/problems/find-minimum-time-to-reach-last-room-i/",
