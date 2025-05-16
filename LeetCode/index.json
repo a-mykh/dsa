@@ -234,6 +234,38 @@
     },
     {
         "question": {
+            "questionId": "359",
+            "questionFrontendId": "359",
+            "link": "/problems/logger-rate-limiter/",
+            "title": "Logger Rate Limiter",
+            "titleSlug": "logger-rate-limiter",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "Design", "Data Stream"],
+            "appearance": {
+                "weeklyChallenges": ["2025-05-08"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "design-hit-counter",
+                    "title": "Design Hit Counter"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1633295152",
+                "t": "O(1)",
+                "s": "O(n)",
+                "runtime": 9,
+                "memory": 68.65,
+                "date": "2025-05-14"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "368",
             "questionFrontendId": "368",
             "link": "/problems/largest-divisible-subset/",
