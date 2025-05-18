@@ -1736,6 +1736,31 @@
     },
     {
         "question": {
+            "questionId": "3142",
+            "questionFrontendId": "2901",
+            "link": "/problems/longest-unequal-adjacent-groups-subsequence-ii/",
+            "title": "Longest Unequal Adjacent Groups Subsequence II",
+            "titleSlug": "longest-unequal-adjacent-groups-subsequence-ii",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "String", "Dynamic Programming"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-16"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1636828760",
+                "t": "O(n*L²)",
+                "s": "O(n*L)",
+                "runtime": 32,
+                "memory": 68.23,
+                "date": "2025-05-16"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3171",
             "questionFrontendId": "2918",
             "link": "/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/",
