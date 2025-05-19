@@ -1863,6 +1863,47 @@
     },
     {
         "question": {
+            "questionId": "3321",
+            "questionFrontendId": "3024",
+            "link": "/problems/type-of-triangle/",
+            "title": "Type of Triangle",
+            "titleSlug": "type-of-triangle",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Math", "Sorting"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-19"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1637825300",
+                "t": "O(1)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 55.86,
+                "date": "2025-05-19"
+            },
+            {
+                "id": "1637850114",
+                "t": "O(1)",
+                "s": "O(1)",
+                "runtime": 2,
+                "memory": 56.52,
+                "date": "2025-05-19"
+            },
+            {
+                "id": "1637864536",
+                "t": "O(1)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 57.21,
+                "date": "2025-05-19"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3548",
             "questionFrontendId": "3272",
             "link": "/problems/find-the-count-of-good-integers/",
