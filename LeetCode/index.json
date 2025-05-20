@@ -2003,6 +2003,38 @@
     },
     {
         "question": {
+            "questionId": "3639",
+            "questionFrontendId": "3355",
+            "link": "/problems/zero-array-transformation-i/",
+            "title": "Zero Array Transformation I",
+            "titleSlug": "zero-array-transformation-i",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Prefix Sum"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-20"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "zero-array-transformation-iv",
+                    "title": "Zero Array Transformation IV"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1638795062",
+                "t": "O(q+n)",
+                "s": "O(n)",
+                "runtime": 7,
+                "memory": 97.78,
+                "date": "2025-05-20"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3621",
             "questionFrontendId": "3375",
             "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
