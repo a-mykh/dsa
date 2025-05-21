@@ -316,6 +316,53 @@
     },
     {
         "question": {
+            "questionId": "361",
+            "questionFrontendId": "361",
+            "link": "/problems/bomb-enemy/",
+            "title": "Bomb Enemy",
+            "titleSlug": "bomb-enemy",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Dynamic Programming", "Matrix"],
+            "appearance": {
+                "weeklyChallenges": ["2025-05-15"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+                    "title": "Minimum Cost Homecoming of a Robot in a Grid"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "stamping-the-grid",
+                    "title": "Stamping the Grid"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "count-unguarded-cells-in-the-grid",
+                    "title": "Count Unguarded Cells in the Grid"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-trailing-zeros-in-a-cornered-path",
+                    "title": "Maximum Trailing Zeros in a Cornered Path"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1639785767",
+                "t": "O(m*n)",
+                "s": "O(n)",
+                "runtime": 9,
+                "memory": 61.06,
+                "date": "2025-05-20"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "368",
             "questionFrontendId": "368",
             "link": "/problems/largest-divisible-subset/",
