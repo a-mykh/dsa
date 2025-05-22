@@ -38,6 +38,53 @@
     },
     {
         "question": {
+            "questionId": "73",
+            "questionFrontendId": "73",
+            "link": "/problems/set-matrix-zeroes/",
+            "title": "Set Matrix Zeroes",
+            "titleSlug": "set-matrix-zeroes",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Matrix"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-21"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "game-of-life",
+                    "title": "Game of Life"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "number-of-laser-beams-in-a-bank",
+                    "title": "Number of Laser Beams in a Bank"
+                },
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+                    "title": "Minimum Operations to Remove Adjacent Ones in Matrix"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+                    "title": "Remove All Ones With Row and Column Flips II"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1639850337",
+                "t": "O(n*m)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 59.52,
+                "date": "2025-05-21"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "75",
             "questionFrontendId": "75",
             "link": "/problems/sort-colors/",
