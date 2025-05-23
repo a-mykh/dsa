@@ -966,6 +966,31 @@
     },
     {
         "question": {
+            "questionId": "1833",
+            "questionFrontendId": "1732",
+            "link": "/problems/find-the-highest-altitude/",
+            "title": "Find the Highest Altitude",
+            "titleSlug": "find-the-highest-altitude",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Prefix Sum"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1579632446",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 53.91,
+                "date": "2025-03-20"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1993",
             "questionFrontendId": "1863",
             "link": "/problems/sum-of-all-subset-xor-totals/",
