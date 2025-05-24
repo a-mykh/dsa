@@ -838,6 +838,38 @@
     },
     {
         "question": {
+            "questionId": "1586",
+            "questionFrontendId": "1493",
+            "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/",
+            "title": "Longest Subarray of 1's After Deleting One Element",
+            "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Dynamic Programming", "Sliding Window"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "max-consecutive-ones-iii",
+                    "title": "Max Consecutive Ones III"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1576473384",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 63.67,
+                "date": "2025-03-17"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1656",
             "questionFrontendId": "1534",
             "link": "/problems/count-good-triplets/",
