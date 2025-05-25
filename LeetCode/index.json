@@ -1937,6 +1937,47 @@
     },
     {
         "question": {
+            "questionId": "3194",
+            "questionFrontendId": "2942",
+            "link": "/problems/find-words-containing-character/",
+            "title": "Find Words Containing Character",
+            "titleSlug": "find-words-containing-character",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "String"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-05-24"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1643368597",
+                "t": "O(n*m)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 60.4,
+                "date": "2025-05-24"
+            },
+            {
+                "id": "1643382999",
+                "t": "O(n*m)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 58.69,
+                "date": "2025-05-24"
+            },
+            {
+                "id": "1643406478",
+                "t": "O(n*m)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 58.6,
+                "date": "2025-05-24"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3213",
             "questionFrontendId": "2962",
             "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
