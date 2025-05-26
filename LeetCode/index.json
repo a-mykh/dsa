@@ -640,6 +640,83 @@
     },
     {
         "question": {
+            "questionId": "1046",
+            "questionFrontendId": "1004",
+            "link": "/problems/max-consecutive-ones-iii/",
+            "title": "Max Consecutive Ones III",
+            "titleSlug": "max-consecutive-ones-iii",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Binary Search", "Sliding Window", "Prefix Sum"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+                    "title": "Longest Substring with At Most K Distinct Characters"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "longest-repeating-character-replacement",
+                    "title": "Longest Repeating Character Replacement"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "max-consecutive-ones",
+                    "title": "Max Consecutive Ones"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "max-consecutive-ones-ii",
+                    "title": "Max Consecutive Ones II"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+                    "title": "Longest Subarray of 1's After Deleting One Element"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximize-the-confusion-of-an-exam",
+                    "title": "Maximize the Confusion of an Exam"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+                    "title": "Minimum Recolors to Get K Consecutive Black Blocks"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "longest-nice-subarray",
+                    "title": "Longest Nice Subarray"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+                    "title": "Maximum Sum of Distinct Subarrays With Length K"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "maximum-enemy-forts-that-can-be-captured",
+                    "title": "Maximum Enemy Forts That Can Be Captured"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1644597146",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 60.85,
+                "date": "2025-03-16"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1049",
             "questionFrontendId": "1007",
             "link": "/problems/minimum-domino-rotations-for-equal-row/",
