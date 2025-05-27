@@ -915,6 +915,31 @@
     },
     {
         "question": {
+            "questionId": "1366",
+            "questionFrontendId": "1429",
+            "link": "/problems/first-unique-number/",
+            "title": "First Unique Number",
+            "titleSlug": "first-unique-number",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Hash Table", "Design", "Queue", "Data Stream"],
+            "appearance": {
+                "weeklyChallenges": ["2025-05-22"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1645527082",
+                "t": "O(n)",
+                "s": "O(m)",
+                "runtime": 255,
+                "memory": 88.52,
+                "date": "2025-05-27"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1586",
             "questionFrontendId": "1493",
             "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/",
