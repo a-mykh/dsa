@@ -1677,6 +1677,31 @@
     },
     {
         "question": {
+            "questionId": "2438",
+            "questionFrontendId": "2359",
+            "link": "/problems/find-closest-node-to-given-two-nodes/",
+            "title": "Find Closest Node to Given Two Nodes",
+            "titleSlug": "find-closest-node-to-given-two-nodes",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Depth-First Search", "Graph"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-30"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1649297917",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 8,
+                "memory": 69.82,
+                "date": "2025-05-30"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2527",
             "questionFrontendId": "2444",
             "link": "/problems/count-subarrays-with-fixed-bounds/",
