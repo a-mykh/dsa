@@ -640,6 +640,38 @@
     },
     {
         "question": {
+            "questionId": "945",
+            "questionFrontendId": "909",
+            "link": "/problems/snakes-and-ladders/",
+            "title": "Snakes and Ladders",
+            "titleSlug": "snakes-and-ladders",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Breadth-First Search", "Matrix"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-05-31"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "most-profitable-path-in-a-tree",
+                    "title": "Most Profitable Path in a Tree"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1650154977",
+                "t": "O(n²)",
+                "s": "O(n²)",
+                "runtime": 2,
+                "memory": 58.66,
+                "date": "2025-05-31"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1046",
             "questionFrontendId": "1004",
             "link": "/problems/max-consecutive-ones-iii/",
