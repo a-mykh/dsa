@@ -2166,6 +2166,31 @@
     },
     {
         "question": {
+            "questionId": "3216",
+            "questionFrontendId": "2927",
+            "link": "/problems/distribute-candies-among-children-iii/",
+            "title": "Distribute Candies Among Children III",
+            "titleSlug": "distribute-candies-among-children-iii",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Combinatorics"],
+            "appearance": {
+                "weeklyChallenges": ["2025-06-01"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1650953915",
+                "t": "O(1)",
+                "s": "O(1)",
+                "runtime": 2,
+                "memory": 58.21,
+                "date": "2025-06-01"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3201",
             "questionFrontendId": "2929",
             "link": "/problems/distribute-candies-among-children-ii/",
