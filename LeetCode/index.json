@@ -2166,6 +2166,46 @@
     },
     {
         "question": {
+            "questionId": "3201",
+            "questionFrontendId": "2929",
+            "link": "/problems/distribute-candies-among-children-ii/",
+            "title": "Distribute Candies Among Children II",
+            "titleSlug": "distribute-candies-among-children-ii",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Combinatorics", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-06-01"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-ways-to-distribute-candies",
+                    "title": "Count Ways to Distribute Candies"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1650208514",
+                "t": "O(min(n, limit))",
+                "s": "O(1)",
+                "runtime": 83,
+                "memory": 58.25,
+                "date": "2025-06-01"
+            },
+            {
+                "id": "1650275165",
+                "t": "O(1)",
+                "s": "O(1)",
+                "runtime": 47,
+                "memory": 57.81,
+                "date": "2025-06-01"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3194",
             "questionFrontendId": "2942",
             "link": "/problems/find-words-containing-character/",
@@ -2400,12 +2440,12 @@
             },
             "similarQuestions": [
                 {
-                    "difficulty": "Hard",
+                    "difficulty": "hard",
                     "titleSlug": "minimum-cost-to-reach-destination-in-time",
                     "title": "Minimum Cost to Reach Destination in Time"
                 },
                 {
-                    "difficulty": "Hard",
+                    "difficulty": "hard",
                     "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
                     "title": "Minimum Time to Visit a Cell In a Grid"
                 }
