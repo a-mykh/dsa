@@ -135,6 +135,48 @@
     },
     {
         "question": {
+            "questionId": "135",
+            "questionFrontendId": "135",
+            "link": "/problems/candy/",
+            "title": "Candy",
+            "titleSlug": "candy",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Greedy", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-02"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "minimize-maximum-value-in-a-grid",
+                    "title": "Minimize Maximum Value in a Grid"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-number-of-operations-to-satisfy-conditions",
+                    "title": "Minimum Number of Operations to Satisfy Conditions"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "check-if-grid-satisfies-conditions",
+                    "title": "Check if Grid Satisfies Conditions"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1652166813",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 0,
+                "memory": 57.64,
+                "date": "2025-06-02"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "302",
             "questionFrontendId": "302",
             "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
