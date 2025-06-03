@@ -964,6 +964,31 @@
     },
     {
         "question": {
+            "questionId": "1424",
+            "questionFrontendId": "1298",
+            "link": "/problems/maximum-candies-you-can-get-from-boxes/",
+            "title": "Maximum Candies You Can Get from Boxes",
+            "titleSlug": "maximum-candies-you-can-get-from-boxes",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Breadth-First Search", "Graph"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-03"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1653142367",
+                "t": "O(n+k+c)",
+                "s": "O(n)",
+                "runtime": 3,
+                "memory": 65.4,
+                "date": "2025-06-03"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1500",
             "questionFrontendId": "1399",
             "link": "/problems/count-largest-group/",
