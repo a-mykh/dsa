@@ -2715,5 +2715,42 @@
                 "date": "2025-04-08"
             }
         ]
+    },
+    {
+        "question": {
+            "questionId": "3683",
+            "questionFrontendId": "3403",
+            "link": "/problems/find-the-lexicographically-largest-string-from-the-box-i/",
+            "title": "Find the Lexicographically Largest String From the Box I",
+            "titleSlug": "find-the-lexicographically-largest-string-from-the-box-i",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Two Pointers", "String", "Enumeration"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-06-04"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "last-substring-in-lexicographical-order",
+                    "title": "Last Substring in Lexicographical Order"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "construct-the-lexicographically-largest-valid-sequence",
+                    "title": "Construct the Lexicographically Largest Valid Sequence"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1654206740",
+                "t": "O(n²)",
+                "s": "O(n)",
+                "runtime": 1,
+                "memory": 57.94,
+                "date": "2025-06-04"
+            }
+        ]
     }
 ]
