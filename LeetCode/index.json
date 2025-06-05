@@ -816,6 +816,38 @@
     },
     {
         "question": {
+            "questionId": "1058",
+            "questionFrontendId": "1061",
+            "link": "/problems/lexicographically-smallest-equivalent-string/",
+            "title": "Lexicographically Smallest Equivalent String",
+            "titleSlug": "lexicographically-smallest-equivalent-string",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["String", "Union Find"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-05"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "lexicographically-smallest-generated-string",
+                    "title": "Lexicographically Smallest Generated String"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1655412679",
+                "t": "O(n+m)",
+                "s": "O(m)",
+                "runtime": 2,
+                "memory": 58.37,
+                "date": "2025-06-05"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1218",
             "questionFrontendId": "1123",
             "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
