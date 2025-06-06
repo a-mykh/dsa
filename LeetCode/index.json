@@ -1833,6 +1833,38 @@
     },
     {
         "question": {
+            "questionId": "2520",
+            "questionFrontendId": "2434",
+            "link": "/problems/using-a-robot-to-print-the-lexicographically-smallest-string/",
+            "title": "Using a Robot to Print the Lexicographically Smallest String",
+            "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "String", "Stack", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-06"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "find-permutation",
+                    "title": "Find Permutation"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1656962964",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 24,
+                "memory": 66.49,
+                "date": "2025-06-06"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2527",
             "questionFrontendId": "2444",
             "link": "/problems/count-subarrays-with-fixed-bounds/",
