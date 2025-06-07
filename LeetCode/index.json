@@ -2521,6 +2521,31 @@
     },
     {
         "question": {
+            "questionId": "3445",
+            "questionFrontendId": "3170",
+            "link": "/problems/lexicographically-minimum-string-after-removing-stars/",
+            "title": "Lexicographically Minimum String After Removing Stars",
+            "titleSlug": "lexicographically-minimum-string-after-removing-stars",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Hash Table", "String", "Stack", "Greedy", "Heap (Priority Queue)"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-06-07"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1657034886",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 31,
+                "memory": 74.75,
+                "date": "2025-06-07"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3548",
             "questionFrontendId": "3272",
             "link": "/problems/find-the-count-of-good-integers/",
