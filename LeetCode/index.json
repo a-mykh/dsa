@@ -477,6 +477,31 @@
     },
     {
         "question": {
+            "questionId": "386",
+            "questionFrontendId": "386",
+            "link": "/problems/lexicographical-numbers/",
+            "title": "Lexicographical Numbers",
+            "titleSlug": "lexicographical-numbers",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Depth-First Search"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-08"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1658283530",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 1,
+                "memory": 63.73,
+                "date": "2025-06-08"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "416",
             "questionFrontendId": "416",
             "link": "/problems/partition-equal-subset-sum/",
