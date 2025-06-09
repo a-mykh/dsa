@@ -580,6 +580,38 @@
     },
     {
         "question": {
+            "questionId": "440",
+            "questionFrontendId": "440",
+            "link": "/problems/k-th-smallest-in-lexicographical-order/",
+            "title": "K-th Smallest in Lexicographical Order",
+            "titleSlug": "k-th-smallest-in-lexicographical-order",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Trie"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-09"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "hard",
+                    "titleSlug": "count-special-integers",
+                    "title": "Count Special Integers"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1659184061",
+                "t": "O((log₁₀(n))²)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 53.90,
+                "date": "2025-06-09"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "724",
             "questionFrontendId": "724",
             "link": "/problems/find-pivot-index/",
