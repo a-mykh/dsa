@@ -1136,6 +1136,48 @@
     },
     {
         "question": {
+            "questionId": "1567",
+            "questionFrontendId": "1456",
+            "link": "/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+            "title": "Maximum Number of Vowels in a Substring of Given Length",
+            "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["String", "Sliding Window"],
+            "appearance": {
+                "studyPlans": ["LeetCode 75"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "maximum-white-tiles-covered-by-a-carpet",
+                    "title": "Maximum White Tiles Covered by a Carpet"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+                    "title": "Minimum Recolors to Get K Consecutive Black Blocks"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "length-of-the-longest-alphabetical-continuous-substring",
+                    "title": "Length of the Longest Alphabetical Continuous Substring"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1573215967",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 17,
+                "memory": 57.34,
+                "date": "2025-03-14"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1586",
             "questionFrontendId": "1493",
             "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/",
