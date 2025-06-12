@@ -2951,6 +2951,31 @@
     },
     {
         "question": {
+            "questionId": "3747",
+            "questionFrontendId": "3423",
+            "link": "/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/",
+            "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+            "titleSlug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-06-12"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1661731374",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 57.78,
+                "date": "2025-06-12"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "3753",
             "questionFrontendId": "3442",
             "link": "/problems/maximum-difference-between-even-and-odd-frequency-i/",
