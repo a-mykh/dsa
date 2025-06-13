@@ -2089,6 +2089,43 @@
     },
     {
         "question": {
+            "questionId": "2720",
+            "questionFrontendId": "2616",
+            "link": "/problems/minimize-the-maximum-difference-of-pairs/",
+            "title": "Minimize the Maximum Difference of Pairs",
+            "titleSlug": "minimize-the-maximum-difference-of-pairs",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array", "Binary Search", "Greedy", "Sorting"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-13"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "minimum-absolute-difference",
+                    "title": "Minimum Absolute Difference"
+                },
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+                    "title": "Minimum Difference Between Largest and Smallest Value in Three Moves"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1663355673",
+                "t": "O(n*log(n)+n*log(d))",
+                "s": "O(n)",
+                "runtime": 17,
+                "memory": 66.45,
+                "date": "2025-06-13"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2856",
             "questionFrontendId": "2799",
             "link": "/problems/count-complete-subarrays-in-an-array/",
