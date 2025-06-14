@@ -2089,6 +2089,31 @@
     },
     {
         "question": {
+            "questionId": "2704",
+            "questionFrontendId": "2566",
+            "link": "/problems/maximum-difference-by-remapping-a-digit/",
+            "title": "Maximum Difference by Remapping a Digit",
+            "titleSlug": "maximum-difference-by-remapping-a-digit",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-14"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1664302624",
+                "t": "O(log₁₀(num))",
+                "s": "O(log₁₀(num))",
+                "runtime": 0,
+                "memory": 55.84,
+                "date": "2025-06-14"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2720",
             "questionFrontendId": "2616",
             "link": "/problems/minimize-the-maximum-difference-of-pairs/",
