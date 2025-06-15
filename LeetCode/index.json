@@ -1136,6 +1136,31 @@
     },
     {
         "question": {
+            "questionId": "1529",
+            "questionFrontendId": "1432",
+            "link": "/problems/max-difference-you-can-get-from-changing-an-integer/",
+            "title": "Max Difference You Can Get From Changing an Integer",
+            "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+            "difficulty": "medium",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Math", "Greedy"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-15"]
+            }
+        },
+        "submissions": [
+            {
+                "id": "1664689144",
+                "t": "O(log₁₀(n))",
+                "s": "O(log₁₀(n))",
+                "runtime": 0,
+                "memory": 54.75,
+                "date": "2025-06-15"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "1567",
             "questionFrontendId": "1456",
             "link": "/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
