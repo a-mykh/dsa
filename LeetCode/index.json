@@ -1479,6 +1479,43 @@
     },
     {
         "question": {
+            "questionId": "2144",
+            "questionFrontendId": "2016",
+            "link": "/problems/maximum-difference-between-increasing-elements/",
+            "title": "Maximum Difference Between Increasing Elements",
+            "titleSlug": "maximum-difference-between-increasing-elements",
+            "difficulty": "easy",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["Array"],
+            "appearance": {
+                "dailyCodingChallenges": ["2025-06-16"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "best-time-to-buy-and-sell-stock",
+                    "title": "Best Time to Buy and Sell Stock"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "two-furthest-houses-with-different-colors",
+                    "title": "Two Furthest Houses With Different Colors"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1666654459",
+                "t": "O(n)",
+                "s": "O(1)",
+                "runtime": 0,
+                "memory": 55.49,
+                "date": "2025-06-16"
+            }
+        ]
+    },
+    {
+        "question": {
             "questionId": "2180",
             "questionFrontendId": "2071",
             "link": "/problems/maximum-number-of-tasks-you-can-assign/",
