@@ -3122,5 +3122,42 @@
                 "date": "2025-06-10"
             }
         ]
+    },
+    {
+        "question": {
+            "questionId": "3761",
+            "questionFrontendId": "3445",
+            "link": "/problems/maximum-difference-between-even-and-odd-frequency-ii/",
+            "title": "Maximum Difference Between Even and Odd Frequency II",
+            "titleSlug": "maximum-difference-between-even-and-odd-frequency-ii",
+            "difficulty": "hard",
+            "categoryTitle": "Algorithms",
+            "topicTags": ["String", "Sliding Window", "Enumeration", "Prefix Sum"],
+            "appearance": {
+                "dailyCodingChallenges:": ["2025-06-11"]
+            },
+            "similarQuestions": [
+                {
+                    "difficulty": "medium",
+                    "titleSlug": "frequency-of-the-most-frequent-element",
+                    "title": "Frequency of the Most Frequent Element"
+                },
+                {
+                    "difficulty": "easy",
+                    "titleSlug": "count-elements-with-maximum-frequency",
+                    "title": "Count Elements With Maximum Frequency"
+                }
+            ]
+        },
+        "submissions": [
+            {
+                "id": "1665440711",
+                "t": "O(n)",
+                "s": "O(n)",
+                "runtime": 44,
+                "memory": 63.12,
+                "date": "2025-06-16"
+            }
+        ]
     }
 ]
